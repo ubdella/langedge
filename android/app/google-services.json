@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942262029435",
+    "firebase_url": "https://langedge-e3515.firebaseio.com",
+    "project_id": "langedge-e3515",
+    "storage_bucket": "langedge-e3515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942262029435:android:c5e41fb124cd7ee6b566de",
+        "android_client_info": {
+          "package_name": "com.polymathproject.langedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942262029435-okld8borsrm7bjea55epbi4kmvapg2j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.polymathproject.langedge",
+            "certificate_hash": "58220f7333a6e567883f804c83d9ed950bb81dc4"
+          }
+        },
+        {
+          "client_id": "942262029435-6t5fiac7acbnd2t6u7d9djidmceiaqrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCDy-XtzYJdmaW8ZsHVW3aTriAdqMFyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942262029435-6t5fiac7acbnd2t6u7d9djidmceiaqrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
