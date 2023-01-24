@@ -20,6 +20,6 @@ LinearGradient flashcardBackgroundGradient = LinearGradient(
     begin: Alignment.bottomRight,
     end: Alignment.topLeft,
     colors: <Color>[
-      Colors.amber[100],
-      Colors.red[200],
+      Colors.amber[900],
+      Colors.amber[500],
     ]);

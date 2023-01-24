@@ -284,10 +284,10 @@ class _KanjiFlashCardsState extends State<KanjiFlashCards> {
                         child: CarouselSlider.builder(
                             itemCount: list.length,
                             options: CarouselOptions(
-                              height: MediaQuery.of(context).size.height * 0.43,
+                              // height: MediaQuery.of(context).size.height * 0.43,
                               autoPlay: false,
                               enlargeCenterPage: true,
-                              viewportFraction: 1,
+                              viewportFraction: 0.9,
                               aspectRatio: 1,
                               initialPage: 0,
                             ),
