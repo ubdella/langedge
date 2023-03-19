@@ -1,2 +1,3 @@
 # langedge
 
+Japanese Edge
